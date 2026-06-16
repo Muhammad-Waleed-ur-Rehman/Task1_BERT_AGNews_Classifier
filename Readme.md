@@ -193,7 +193,7 @@ TASK1_BERT_AGNEWS_CLASSIFIER/
 ```
 ---
 
-# Conclusion
+# Key Results / Observations
 
 The project successfully demonstrates how a pre-trained BERT model can be fine-tuned for news topic classification. The model effectively classifies news headlines into World, Sports, Business, and Sci/Tech categories while maintaining strong predictive performance. The Streamlit deployment further enables real-time interaction and practical use of the trained model.
 
