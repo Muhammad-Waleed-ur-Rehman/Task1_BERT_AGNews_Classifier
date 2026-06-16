@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+datasets
+evaluate
+accelerate
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
