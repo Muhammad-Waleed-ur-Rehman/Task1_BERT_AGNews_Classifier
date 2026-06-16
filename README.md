@@ -1,2 +1,2 @@
-# Task1_BERT_AGNews_Classifier
+# Task1 BERT AGNews Classifier
 Task 1: News Topic Classifier Using BERT
